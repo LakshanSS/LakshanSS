@@ -15,6 +15,7 @@ Currently, I am a **Core Team Member** of **[OpenChoreo](https://openchoreo.dev/
 Throughout my career at WSO2, I have contributed to several core products and open-source ecosystems:
 - **[Choreo](https://choreo.dev/):** An internal developer platform for building, deploying, and managing cloud-native applications.
 - **[Ballerina](https://ballerina.io/):** A cloud-native programming language designed for integration and networked services.
+- **[WSO2 Enterprise Integrator](https://github.com/wso2/product-ei):** An open source cloud native scalable integration solution.
 - **[Siddhi](https://siddhi.io/):** A cloud-native, open-source complex event processing and stream processing engine.
 - **[WSO2 Stream Processor](https://github.com/wso2/product-sp):** A lightweight, open-source stream processing platform.
 
