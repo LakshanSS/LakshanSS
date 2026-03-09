@@ -2,14 +2,14 @@
 
 **Senior Software Engineer @ [WSO2](https://wso2.com)**
 
-I am a software engineer with over **6+ years of experience** (including 5+ years of full-time engineering at WSO2 and an extensive background in freelance development). I specialize in building scalable, cloud-native infrastructure and developer-centric platforms.
+I am a senior software engineer with over **6+ years of experience** (including 5+ years of full-time engineering at [WSO2](https://wso2.com)). I build the systems that build the future — specializing in scalable cloud-native infrastructure and Internal Developer Platforms (IDPs) that redefine the developer experience.
 
-Currently, I am a **Core Team Member** of **[OpenChoreo](https://openchoreo.dev/)**, where we are redefining the internal developer experience.
+Currently, I am a core team member of **[OpenChoreo](https://www.cncf.io/projects/openchoreo/)**, an internal developer platform that helps platform engineering teams streamline developer workflows, simplify complexity, and deliver secure, scalable Internal Developer Portals — without building everything from scratch..
 
 ---
 
 ### 🚀 What I'm working on now
-**[OpenChoreo](https://github.com/openchoreo/openchoreo)** is an open-source, Kubernetes-native Internal Developer Platform (IDP). OpenChoreo orchestrates CNCF and open-source tools like Kubernetes, Argo, Cilium, Backstage, and more to provide a production-grade IDP.
+**[OpenChoreo](https://openchoreo.dev/)** is an open-source, developer platform for Kubernetes offering development and architecture abstractions, a Backstage-powered developer portal, application CI/CD, GitOps, and observability. It composes [CNCF](https://www.cncf.io/) and complementary projects into a modular, extensible framework that provides both strong governance for platform engineers and simplified abstractions for developers.
 
 ### 🏛 Previous Work & Contributions
 Throughout my career at WSO2, I have contributed to several core products and open-source ecosystems:
