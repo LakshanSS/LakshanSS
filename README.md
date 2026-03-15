@@ -25,3 +25,5 @@ Throughout my career at WSO2, I have contributed to several core products and op
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/lakshanss](https://www.linkedin.com/in/lakshanss/)
+- **X:** [x.com/SLakshan23](https://x.com/SLakshan23)
+- **Medium:** [medium.com/@lakshanss](https://medium.com/@lakshanss)
